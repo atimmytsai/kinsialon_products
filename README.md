@@ -1,2 +1,2 @@
 # kinsialon_products
-Kinsialon Products
+Kinsialon Products is a wordpress plugin
